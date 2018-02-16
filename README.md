@@ -12,4 +12,4 @@ Lista de todos los países del mundo alrededor del mundo en español con su cód
 
 **Deutsch Beschreibungen**
 
-Länderliste im Welt auf Spanisch mit seinen ID oder Code
+Länderliste im Welt auf Spanisch mit seinem ID oder Code
